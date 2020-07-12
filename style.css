@@ -1,0 +1,39 @@
+
+    h1{
+        color: rgba(0, 255, 234, 0.801);
+        background-color: red;
+    }
+    p{
+        color: royalblue;
+        background-color: black;
+        height: 50px;
+        font-size: larger;
+        font-weight: 900;
+        font-family: Georgia, 'Times New Roman', serif;
+    }
+    h3{
+        color: salmon;
+        background-color: yellow;
+    }
+    img{
+        width: 50%;
+    }
+    #goal {
+        color: red;
+        background-color: yellow;
+    }
+    .ruet{
+        height: 300px;
+        background-color: brown;
+        border: 10px solid blue;
+        padding: 10px;
+    }
+    .versity{ 
+        color: darkblue;
+
+     }
+    .chemistry{
+        border: 5px solid red;
+        margin: 50px;
+        padding: 100px;
+    }
